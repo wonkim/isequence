@@ -8,13 +8,6 @@ Please see DiagramView.m file in TestApp group as example codes.
 
 This version is tested with iPhone 5 / iOS 6 and 7 OS.
 
-## TODO
-
-* Refactor iOS layout manager codes to make it more readable
-* Support iPad device
-* Implement layout manager for MacOS X
-* Implement simple parser for web sequence diagram like grammar
-
 ## Sample Drawing
 
 Please see the below sample codes for basic usage of isequence library.
@@ -71,3 +64,11 @@ Please see the below sample codes for basic usage of isequence library.
 It will generate sequence diagram image likes the below:
 
 ![sample drawing](http://3.bp.blogspot.com/-nd9EgMlmgOk/UnT_URuSGsI/AAAAAAAACsY/qXnKmlVF3ks/s1600/diagramimage.png)
+
+## TODO
+
+* Refactor iOS layout manager codes to make it more readable
+* Support iPad device
+* Implement layout manager for MacOS X
+* Implement simple parser for web sequence diagram like grammar
+
