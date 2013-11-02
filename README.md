@@ -46,10 +46,10 @@ Please see the below sample codes for basic usage of isequence library.
         [alt1 alternativeConditionWithName:@"if QCI is 3"];
         [alt1 messageFromTimeline:td toTimeline:ta withName:@"d to a"];
         
-        // Add option 1
-        ISOption *option1 = [diagram optionWithName:@"Option4 - in case of error"];
-        [option1 messageFromTimeline:ta toTimeline:tc withName:@"a to c"];
-        [option1 messageFromTimeline:tc toTimeline:ta withName:@"c to a"];
+        // Add option 4
+        ISOption *option4 = [diagram optionWithName:@"Option4 - in case of error"];
+        [option4 messageFromTimeline:ta toTimeline:tc withName:@"a to c"];
+        [option4 messageFromTimeline:tc toTimeline:ta withName:@"c to a"];
         
         [diagram messageFromTimeline:ta toTimeline:td withName:@"Last message"];
         [diagram messageFromTimeline:td toTimeline:tb withName:@"Last response"].lineType = DASHED_LINE_TYPE;
