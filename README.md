@@ -15,4 +15,8 @@ This version is tested with iPhone 5 / iOS 6 and 7 OS.
 * Implement layout manager for MacOS X
 * Implement simple parser for web sequence diagram like grammar
 
+## Sample Drawing
+
+![sample drawing](http://3.bp.blogspot.com/-nd9EgMlmgOk/UnT_URuSGsI/AAAAAAAACsY/qXnKmlVF3ks/s1600/diagramimage.png)
+
 
