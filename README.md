@@ -69,6 +69,7 @@ It will generate sequence diagram image likes the below:
 
 * Refactor iOS layout manager codes to make it more readable
 * Support iPad device
+* Support animation of sequence diagram
 * Implement layout manager for MacOS X
 * Implement simple parser for web sequence diagram like grammar
 
