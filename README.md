@@ -3,7 +3,7 @@ isequence
 
 ## Sequence Diagram Library for iOS v0.1
 
-By using this library, you can draw sequence diagram from iPhone application.
+By using this library, you can draw simplified sequence diagram from iPhone application.
 Please see DiagramView.m file in TestApp group as example codes.
 
 This version is tested with iPhone 5 / iOS 6 and 7 OS.
