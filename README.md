@@ -1,5 +1,5 @@
 isequence
-=========
+==========
 
 ## Sequence Diagram Library for iOS v0.1
 
@@ -7,6 +7,30 @@ By using this library, you can draw sequence diagram from iPhone application.
 Please see DiagramView.m file in TestApp group as example codes.
 
 This version is tested with iPhone 5 / iOS 6 and 7 OS.
+
+## License
+
+ The MIT License (MIT)
+ 
+ Copyright (c) 2013 Wonil Kim (wonil.kim@gmail.com)
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
 
 ## Sample Drawing
 
@@ -68,8 +92,6 @@ It will generate sequence diagram image likes the below:
 ## TODO
 
 * Refactor iOS layout manager codes to make it more readable
-* Support iPad device
 * Support animation of sequence diagram
 * Implement layout manager for MacOS X
 * Implement simple parser for web sequence diagram like grammar
-
